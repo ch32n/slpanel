@@ -6,7 +6,7 @@ Tcl/Tk megawidget that provides animated, collapsible side panels.
 ## Command Reference
 
 **slpanel::create** *pathName* ?options?</br>
-&nbspCreates sliding panel megawidget</br>
+Creates sliding panel megawidget</br>
   
 ## Widget Commands
 
