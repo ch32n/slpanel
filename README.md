@@ -13,7 +13,7 @@ Creates sliding panel megawidget</br>
 *pathName* **add** *PanelName* ?options?</br>
   Adds new panel with name PanelName. PanelName is a unique string to identify the panel.</br>
   Returns the path to the panel's content frame, where you should pack your widgets.</br>
-  Configuration Options:</br>
+  Configuration Options:
    - **-anchor** (e|w): (Default: e) The side the panel slides from.</br>
    - **-open** (float|integer): (Default: 0.5) The width of the open panel. A value between 0.0 and 1.0 is a percentage of the main area; a value > 1 is a fixed pixel size.</br>
    - **-close** (float|integer): (Default: 0) The width of the closed panel, allowing a small part to remain visible. Sizing rules are the same as for -open.</br>
